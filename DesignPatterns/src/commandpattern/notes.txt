@@ -1,0 +1,3 @@
+1)behavioural pattern
+2)encapsulates the command and pass to others
+3)keypoints:client,invoker,command, concrete command, receiver
