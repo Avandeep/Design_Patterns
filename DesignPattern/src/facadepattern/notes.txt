@@ -1,0 +1,18 @@
+1)will implement the facade pattern, the facade pattern makes a complex system easy to use for the
+
+client applications.
+
+2)Facade pattern was much more popular in the age old days of EJBs and remote procedural calls where the
+
+client, instead of making multiple network calls to get the job done, he can make a single call to
+
+Facade class, which will make all the other calls that are required within the system.
+
+3)Instead of making multiple restful calls into the same API, the provider can expose out a facade class,
+
+which can be one more layer on top of the restful classes, and it can reduce the complexity in the
+
+network calls for the client.
+
+4)So Facade simply hides the complexity of the system by becoming a layer in between, the client will only
+know about the facade and it hides all the other complexity.
