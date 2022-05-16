@@ -1,5 +1,0 @@
-1)structural design pattern
-2)reuse objects to save memory
-3) three solutions to save memory to reduce no of objects creation:-separate the extrinsic 
-(not common parameters) state, pass them as
-parameters, create a factory class

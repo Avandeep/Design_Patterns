@@ -1,2 +1,0 @@
-1) behavioural pattern
-2) add functionality at any time
